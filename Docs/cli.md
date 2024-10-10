@@ -1,8 +1,7 @@
 # Add some content in the file
-ls – list files in current directory
-pwd – print working directory
-cd - change directory
-cat, less – show contents of a text file
-cp, mv, mkdir – copy & move files, create a
-directory
+ls – list files in current directory <br>
+pwd – print working directory<br>
+cd - change directory<br>
+cat, less – show contents of a text file<br>
+cp, mv, mkdir – copy & move files, create a directory<br>
 ping – ping a server over the network
