@@ -23,6 +23,7 @@ This is text.<br> and I can make it **bold**
 
 :blush:H:blush:A:blush:P:blush:P:blush:Y:blush:
 
+# lab - 4
 ## Keyboard shortcuts
 Shortcuts I frequently use: 
 - Ctrl-C (copy)
@@ -33,3 +34,6 @@ Shortcuts I would like to start using:
 - Ctrl-A (select all)
 - Win-D (show desktop)
 - Super-Hyper-Meta-F (I don’t even have such keys, but it sounds impressive)
+
+# lab - 6
+[CLI commands](docs/cli.md)
