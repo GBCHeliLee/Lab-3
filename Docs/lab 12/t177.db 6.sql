@@ -1,1 +1,0 @@
-SELECT UPPER(course_name) FROM courses
