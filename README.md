@@ -46,12 +46,16 @@ Shortcuts I would like to start using:
 [link to SQL](Docs/t177.db.sql)
 
 # lab 12 SQL2
-[link to lab 12 directory](Docs/lab 12)<br>
-[link to SQL file 1](Docs/lab 12/t177.db.sql)<br>
-[link to SQL file 2](Docs/lab 12/t177.db 2.sql)<br>
-[link to SQL file 3](Docs/lab 12/t177.db 3.sql)<br>
-[link to SQL file 4](Docs/lab 12/t177.db 4.sql)<br>
-[link to SQL file 5](Docs/lab 12/t177.db 5.sql)<br>
-[link to SQL file 6](Docs/lab 12/t177.db 6.sql)<br>
-[link to SQL file 7](Docs/lab 12/t177.db 7.sql)<br>
-[link to SQL file 8](Docs/lab 12/t177.db 8.sql)<br>
+[link to lab12 directory](/Docs/lab12)<br>
+[link to Total_SQL](Docs/lab12/t177.dbTotal.sql)<br>
+
+extras<br>
+[link to SQL file 1](Docs/lab12/t177.db.sql)<br>
+[link to SQL file 2](Docs/lab12/t177.db2.sql)<br>
+[link to SQL file 3](Docs/lab12/t177.db3.sql)<br>
+[link to SQL file 4](Docs/lab12/t177.db4.sql)<br>
+[link to SQL file 5](Docs/lab12/t177.db5.sql)<br>
+[link to SQL file 6](Docs/lab12/t177.db6.sql)<br>
+[link to SQL file 7](Docs/lab12/t177.db7.sql)<br>
+[link to SQL file 8](Docs/lab12/t177.db8.sql)<br>
+
