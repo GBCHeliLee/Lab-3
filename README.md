@@ -37,9 +37,12 @@ Shortcuts I would like to start using:
 
 # lab - 6
 [CLI commands](Docs/cli.md)
+
 # lab - 8: JSON and YML
 [link to json](Docs/players.json)<br>
 [link to yml](Docs/players.yml)
 
 # lab 11 SQL
 [link to SQL](Docs/t177.db.sql)
+
+# lab 12 SQL2
